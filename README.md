@@ -120,4 +120,4 @@ codeant-ai-repomanager/
 
 ### 🤝 Connect with me:
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shubhamsharma-10).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamsharma1004/).
