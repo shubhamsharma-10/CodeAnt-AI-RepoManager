@@ -3,19 +3,43 @@ logs
 *.log
 npm-debug.log*
 
+# Dependency directories
+node_modules/
 
-node_modules
-dist
-dist-ssr
-*.local
+# Production build output
+dist/
+dist-ssr/
+
+# Local environment settings
+.env
+.env.local
+.env.*.local
 
 # Editor directories and files
-.vscode/*
+.vscode/
 !.vscode/extensions.json
-.idea
+.idea/
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+
+# MacOS system files
+Thumbs.db
+*.DS_Store
+
+# Windows system files
+*.lnk
+
+# Temp files
+*.tmp
+*.temp
+*.swp
+
+# Debug files
+debug/
+
+# npm lockfile
+package-lock.json
